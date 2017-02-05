@@ -1,15 +1,14 @@
 # ErikOrguShoppingListCreator
 
-The point of this software is to let people who share the same account on Erikorgu get their own shopping list separately. <br />
+The point of this program is to let people who share the same account on Erikorgu get their own shopping list separately. <br />
 
-Scenario where this program comes in handy: <br />
-( This is just a scenario, trying not to offend anyone here ) <br />
-If you share the same Erikorgu account with your parents and you live alone somewhere else.  <br />
-Then you make the menus ready on Erikorgu website <br />
-( NB! tick the people who you are gonna dine with,  <br />
-the program doesn't calculate the quantity difference between people (yet ;) ) <br />
-and download all the menus you need ( I suggest printing them out afterwards to make cooking easier ). <br />
-Put the menus in the same directory and follow the 'How it works' guide. <br />
+Why I use this program? <br />
+Because I share the account with some people, then I need to create the menus separately. <br />
+When I have the menus done, then I usually would write out the things I need from the store. (Which takes a lot of time)<br />
+This program makes it easier by writing all the components (which have quantities) to a text file.<br />
+I take out the proudcts that I already have and print out the shopping list with the menus.<br />
+<br />
+The point of this program is to save time by making the shopping list creation process quicker.<br />
 
 LINK TO DOWNLOAD THE PROGRAM: https://www.dropbox.com/s/9o9me859kdhb3uw/ErikOrguShoppingListCreator.jar?dl=1 <br />
 Run the program with Java 
